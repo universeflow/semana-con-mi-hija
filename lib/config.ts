@@ -1,5 +1,5 @@
 export const API_CONFIG = {
-  BASE_URL: "/api/java", // Usar proxy de Next.js para evitar CORS
+  BASE_URL: "https://control-semana-hija-production.up.railway.app", // Usar proxy de Next.js para evitar CORS
   ENDPOINTS: {
     AUTH: {
       LOGIN: "/auth/login",
