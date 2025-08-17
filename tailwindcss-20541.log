@@ -1,0 +1,243 @@
+2025-08-17T06:23:53.040243Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-08-17T06:23:53.040470Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker", pattern: "**/*", negated: false }
+2025-08-17T06:23:53.040816Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-08-17T06:23:53.040824Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker" }
+2025-08-17T06:23:53.045507Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.046477Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts"
+2025-08-17T06:23:53.046554Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts/auth-context.tsx"
+2025-08-17T06:23:53.046672Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app"
+2025-08-17T06:23:53.046714Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/layout.tsx"
+2025-08-17T06:23:53.046745Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/page.tsx"
+2025-08-17T06:23:53.046770Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/globals.css"
+2025-08-17T06:23:53.046813Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login"
+2025-08-17T06:23:53.046837Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login/page.tsx"
+2025-08-17T06:23:53.046858Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/postcss.config.mjs"
+2025-08-17T06:23:53.046876Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/next.config.mjs"
+2025-08-17T06:23:53.046980Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles"
+2025-08-17T06:23:53.047002Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles/globals.css"
+2025-08-17T06:23:53.047031Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components"
+2025-08-17T06:23:53.047055Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/theme-provider.tsx"
+2025-08-17T06:23:53.047087Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui"
+2025-08-17T06:23:53.047125Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/aspect-ratio.tsx"
+2025-08-17T06:23:53.047136Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/alert-dialog.tsx"
+2025-08-17T06:23:53.047146Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/use-mobile.tsx"
+2025-08-17T06:23:53.047163Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/pagination.tsx"
+2025-08-17T06:23:53.047172Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/tabs.tsx"
+2025-08-17T06:23:53.047183Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/card.tsx"
+2025-08-17T06:23:53.047192Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/slider.tsx"
+2025-08-17T06:23:53.047202Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/popover.tsx"
+2025-08-17T06:23:53.047210Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/progress.tsx"
+2025-08-17T06:23:53.047219Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toaster.tsx"
+2025-08-17T06:23:53.047230Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/input-otp.tsx"
+2025-08-17T06:23:53.047239Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/chart.tsx"
+2025-08-17T06:23:53.047249Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/hover-card.tsx"
+2025-08-17T06:23:53.047258Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sheet.tsx"
+2025-08-17T06:23:53.047268Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/scroll-area.tsx"
+2025-08-17T06:23:53.047277Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/resizable.tsx"
+2025-08-17T06:23:53.047286Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/label.tsx"
+2025-08-17T06:23:53.047295Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sonner.tsx"
+2025-08-17T06:23:53.047305Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/navigation-menu.tsx"
+2025-08-17T06:23:53.047315Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/accordion.tsx"
+2025-08-17T06:23:53.047324Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/drawer.tsx"
+2025-08-17T06:23:53.047332Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/tooltip.tsx"
+2025-08-17T06:23:53.047341Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/alert.tsx"
+2025-08-17T06:23:53.047354Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/use-toast.ts"
+2025-08-17T06:23:53.047363Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/switch.tsx"
+2025-08-17T06:23:53.047371Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/calendar.tsx"
+2025-08-17T06:23:53.047380Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/breadcrumb.tsx"
+2025-08-17T06:23:53.047389Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/radio-group.tsx"
+2025-08-17T06:23:53.047397Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/command.tsx"
+2025-08-17T06:23:53.047406Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toggle-group.tsx"
+2025-08-17T06:23:53.047414Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/avatar.tsx"
+2025-08-17T06:23:53.047423Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/menubar.tsx"
+2025-08-17T06:23:53.047431Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/dialog.tsx"
+2025-08-17T06:23:53.047440Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/badge.tsx"
+2025-08-17T06:23:53.047449Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sidebar.tsx"
+2025-08-17T06:23:53.047458Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/table.tsx"
+2025-08-17T06:23:53.047467Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/separator.tsx"
+2025-08-17T06:23:53.047476Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/button.tsx"
+2025-08-17T06:23:53.047484Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toggle.tsx"
+2025-08-17T06:23:53.047494Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toast.tsx"
+2025-08-17T06:23:53.047502Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/checkbox.tsx"
+2025-08-17T06:23:53.047510Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/collapsible.tsx"
+2025-08-17T06:23:53.047518Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/dropdown-menu.tsx"
+2025-08-17T06:23:53.047530Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/select.tsx"
+2025-08-17T06:23:53.047539Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/textarea.tsx"
+2025-08-17T06:23:53.047547Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/input.tsx"
+2025-08-17T06:23:53.047555Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/skeleton.tsx"
+2025-08-17T06:23:53.047567Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/context-menu.tsx"
+2025-08-17T06:23:53.047576Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/form.tsx"
+2025-08-17T06:23:53.047585Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/carousel.tsx"
+2025-08-17T06:23:53.047595Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/travel-checker.tsx"
+2025-08-17T06:23:53.047603Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/protected-route.tsx"
+2025-08-17T06:23:53.047613Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/visit-checker.tsx"
+2025-08-17T06:23:53.047623Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/login-form.tsx"
+2025-08-17T06:23:53.047665Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public"
+2025-08-17T06:23:53.047691Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public/placeholder-logo.svg"
+2025-08-17T06:23:53.047713Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public/placeholder.svg"
+2025-08-17T06:23:53.047730Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/package.json"
+2025-08-17T06:23:53.047755Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks"
+2025-08-17T06:23:53.047923Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks/use-mobile.ts"
+2025-08-17T06:23:53.047944Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks/use-toast.ts"
+2025-08-17T06:23:53.047992Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib"
+2025-08-17T06:23:53.048018Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib/utils.ts"
+2025-08-17T06:23:53.048028Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib/config.ts"
+2025-08-17T06:23:53.048055Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components.json"
+2025-08-17T06:23:53.048065Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/tsconfig.json"
+2025-08-17T06:23:53.048112Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode"
+2025-08-17T06:23:53.048134Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode/launch.json"
+2025-08-17T06:23:53.048186Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.048191Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.048194Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.048197Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 71 file(s)
+2025-08-17T06:23:53.048483Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/button.tsx"
+2025-08-17T06:23:53.048648Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/card.tsx"
+2025-08-17T06:23:53.048714Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/page.tsx"
+2025-08-17T06:23:53.048773Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts/auth-context.tsx"
+2025-08-17T06:23:53.048821Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib/utils.ts"
+2025-08-17T06:23:53.048836Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/layout.tsx"
+2025-08-17T06:23:53.048844Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/postcss.config.mjs"
+2025-08-17T06:23:53.048858Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib/config.ts"
+2025-08-17T06:23:53.048955Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/alert-dialog.tsx"
+2025-08-17T06:23:53.048964Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/popover.tsx"
+2025-08-17T06:23:53.048963Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login/page.tsx"
+2025-08-17T06:23:53.048963Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/input-otp.tsx"
+2025-08-17T06:23:53.049016Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public/placeholder.svg"
+2025-08-17T06:23:53.049021Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toggle.tsx"
+2025-08-17T06:23:53.049035Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/next.config.mjs"
+2025-08-17T06:23:53.049034Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/command.tsx"
+2025-08-17T06:23:53.049058Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/theme-provider.tsx"
+2025-08-17T06:23:53.049046Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/package.json"
+2025-08-17T06:23:53.049063Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components.json"
+2025-08-17T06:23:53.049083Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/progress.tsx"
+2025-08-17T06:23:53.049064Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/slider.tsx"
+2025-08-17T06:23:53.049103Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/use-mobile.tsx"
+2025-08-17T06:23:53.049060Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/skeleton.tsx"
+2025-08-17T06:23:53.049121Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks/use-mobile.ts"
+2025-08-17T06:23:53.049141Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/chart.tsx"
+2025-08-17T06:23:53.049409Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toast.tsx"
+2025-08-17T06:23:53.049431Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/aspect-ratio.tsx"
+2025-08-17T06:23:53.049439Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/dialog.tsx"
+2025-08-17T06:23:53.049433Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/collapsible.tsx"
+2025-08-17T06:23:53.049439Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/accordion.tsx"
+2025-08-17T06:23:53.049490Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toggle-group.tsx"
+2025-08-17T06:23:53.049491Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/toaster.tsx"
+2025-08-17T06:23:53.049521Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/tsconfig.json"
+2025-08-17T06:23:53.049884Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/context-menu.tsx"
+2025-08-17T06:23:53.049916Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/pagination.tsx"
+2025-08-17T06:23:53.049958Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks/use-toast.ts"
+2025-08-17T06:23:53.049961Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/select.tsx"
+2025-08-17T06:23:53.049993Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/hover-card.tsx"
+2025-08-17T06:23:53.050011Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/checkbox.tsx"
+2025-08-17T06:23:53.050368Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/badge.tsx"
+2025-08-17T06:23:53.050511Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/scroll-area.tsx"
+2025-08-17T06:23:53.050516Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/tabs.tsx"
+2025-08-17T06:23:53.050514Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/textarea.tsx"
+2025-08-17T06:23:53.050520Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/travel-checker.tsx"
+2025-08-17T06:23:53.050522Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/form.tsx"
+2025-08-17T06:23:53.050513Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sheet.tsx"
+2025-08-17T06:23:53.050560Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/input.tsx"
+2025-08-17T06:23:53.050581Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/label.tsx"
+2025-08-17T06:23:53.050582Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/protected-route.tsx"
+2025-08-17T06:23:53.050593Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/avatar.tsx"
+2025-08-17T06:23:53.050616Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/use-toast.ts"
+2025-08-17T06:23:53.050611Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/menubar.tsx"
+2025-08-17T06:23:53.050638Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode/launch.json"
+2025-08-17T06:23:53.050649Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sidebar.tsx"
+2025-08-17T06:23:53.050617Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/dropdown-menu.tsx"
+2025-08-17T06:23:53.050634Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/carousel.tsx"
+2025-08-17T06:23:53.050685Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/switch.tsx"
+2025-08-17T06:23:53.050641Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/visit-checker.tsx"
+2025-08-17T06:23:53.050702Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/alert.tsx"
+2025-08-17T06:23:53.050594Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/resizable.tsx"
+2025-08-17T06:23:53.050729Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/separator.tsx"
+2025-08-17T06:23:53.050662Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/sonner.tsx"
+2025-08-17T06:23:53.050640Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/login-form.tsx"
+2025-08-17T06:23:53.050761Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public/placeholder-logo.svg"
+2025-08-17T06:23:53.050643Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/tooltip.tsx"
+2025-08-17T06:23:53.050719Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/calendar.tsx"
+2025-08-17T06:23:53.050726Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/navigation-menu.tsx"
+2025-08-17T06:23:53.050617Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/drawer.tsx"
+2025-08-17T06:23:53.050698Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/table.tsx"
+2025-08-17T06:23:53.050776Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/radio-group.tsx"
+2025-08-17T06:23:53.050845Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui/breadcrumb.tsx"
+2025-08-17T06:23:53.050920Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.050925Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.050928Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.051905Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.051918Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.051923Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.051925Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 2 file(s)
+2025-08-17T06:23:53.051982Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/globals.css"
+2025-08-17T06:23:53.052135Z  INFO tailwindcss_oxide::scanner: Reading "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles/globals.css"
+2025-08-17T06:23:53.052155Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.052167Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.052171Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.052309Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.052319Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.053003Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.053686Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.053692Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.054002Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts"
+2025-08-17T06:23:53.054063Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app"
+2025-08-17T06:23:53.054118Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login"
+2025-08-17T06:23:53.054223Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles"
+2025-08-17T06:23:53.054258Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components"
+2025-08-17T06:23:53.054302Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui"
+2025-08-17T06:23:53.054622Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public"
+2025-08-17T06:23:53.054695Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks"
+2025-08-17T06:23:53.054752Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib"
+2025-08-17T06:23:53.054822Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode"
+2025-08-17T06:23:53.054878Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.055047Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.055171Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.055177Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.055454Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts"
+2025-08-17T06:23:53.055493Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app"
+2025-08-17T06:23:53.055540Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login"
+2025-08-17T06:23:53.055639Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles"
+2025-08-17T06:23:53.055670Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components"
+2025-08-17T06:23:53.055701Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui"
+2025-08-17T06:23:53.055958Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public"
+2025-08-17T06:23:53.056040Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks"
+2025-08-17T06:23:53.056072Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib"
+2025-08-17T06:23:53.056123Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode"
+2025-08-17T06:23:53.056179Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.057277Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.943825Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.944198Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts"
+2025-08-17T06:23:53.944264Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app"
+2025-08-17T06:23:53.944322Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login"
+2025-08-17T06:23:53.944438Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles"
+2025-08-17T06:23:53.944482Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components"
+2025-08-17T06:23:53.944524Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui"
+2025-08-17T06:23:53.944895Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public"
+2025-08-17T06:23:53.945027Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks"
+2025-08-17T06:23:53.945085Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib"
+2025-08-17T06:23:53.945150Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode"
+2025-08-17T06:23:53.945210Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.945217Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.945224Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.945226Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 0 file(s)
+2025-08-17T06:23:53.945229Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.945232Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.945236Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.945239Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.945241Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.945245Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.945806Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.945818Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.946184Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/contexts"
+2025-08-17T06:23:53.946229Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app"
+2025-08-17T06:23:53.946313Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/app/login"
+2025-08-17T06:23:53.946460Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/styles"
+2025-08-17T06:23:53.946548Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components"
+2025-08-17T06:23:53.946594Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/components/ui"
+2025-08-17T06:23:53.946884Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/public"
+2025-08-17T06:23:53.946964Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/hooks"
+2025-08-17T06:23:53.947000Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/lib"
+2025-08-17T06:23:53.947043Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/exlmamo/Desktop/personal/proyecto-semana-hija-react/proyecto-cony/travel-checker/.vscode"
+2025-08-17T06:23:53.947091Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.947224Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-08-17T06:23:53.947347Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-08-17T06:23:53.947354Z  INFO get_globs: tailwindcss_oxide::scanner: exit
